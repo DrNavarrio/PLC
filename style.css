@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+#p1 {
+  font-family: "Bebas Neue", sans-serif;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 60px;
+  padding: 3px;
+  color: rgb(2, 161, 55);
+}
+#p2 {
+  color: rgb(2, 161, 55);
+  font-size: 15px;
+  text-align: right;
+}
+
+#box1 {
+  border: 5px solid;
+  width: 250px;
+  height: 250px;
+  font-family: "Bebas Neue";
+  font-size: 35px;
+  background-color: black;
+  border-color: rgb(2, 161, 55);
+  color: rgb(238, 238, 238);
+  padding: 10px;
+  text-align: center;
+  margin-left: 645px;
+}
